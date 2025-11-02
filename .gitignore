@@ -10,6 +10,7 @@ build/
 bin/
 out/
 .vscode/
+run/
 
 # OS files
 .DS_Store

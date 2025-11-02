@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fastpath",
-  "version": "1.5.0",
+  "version": "1.0.0",
   "name": "Fastpath",
   "description": "High-compat, toggleable fast paths for rendering and simulation.",
   "authors": ["Arush"],
