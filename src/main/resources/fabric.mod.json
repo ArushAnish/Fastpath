@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "fastpath",
+  "version": "1.5.0",
+  "name": "Fastpath",
+  "description": "High-compat, toggleable fast paths for rendering and simulation.",
+  "authors": ["Arush"],
+  "contact": {
+    "homepage": "https://github.com/ArushAnish/fastpath",
+    "sources": "https://github.com/ArushAnish/fastpath",
+    "issues": "https://github.com/ArushAnish/fastpath/issues"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.fastpath.FastpathClient"
+    ],
+    "modmenu": [
+      "dev.fastpath.integration.FastpathModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "fastpath.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.4",
+    "fabric": ">=0.136.0+1.21.8",
+    "minecraft": "1.21.8",
+    "sodium": "*",
+    "modmenu": "*"
+  },
+  "icon": "assets/fastpath/icon.png"
+}

@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "dev.fastpath.mixin",
+  "plugin": "dev.fastpath.FastpathMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "DebugOverlayMixin",
+    "InGameHudMixin",
+    "VisGraphMixin",
+    "SectionRenderDispatcherMixin",
+    "SectionCompilerMixin",
+    "MinecraftTickMixin",
+    "LevelMixin",
+    "ClientLevelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

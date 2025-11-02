@@ -1,0 +1,151 @@
+[15:24:06] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[15:24:06] [main/INFO] (FabricLoader) Loading 18 mods:
+	- fabric-api 0.136.0+1.21.8
+	- fabricloader 0.16.14
+	- fastpath 1.5.0
+	- java 21
+	- minecraft 1.21.8
+	- mixinextras 0.4.1
+	- modmenu 15.0.0
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   \-- placeholder-api 2.7.2+1.21.8
+	- sodium 0.7.2+mc1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-renderer-api-v1 7.0.4+208eed172c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.1+fbe231d52c
+	   \-- fabric-resource-loader-v0 3.1.12+020423442c
+[15:24:09] [pool-2-thread-11/WARN] (FabricLoader/ModRemap) Cannot remap lambda$addSkyPass$13 because it does not exists in any of the targets [net/minecraft/class_761]
+[15:24:09] [pool-2-thread-12/WARN] (FabricLoader/ModRemap) Cannot remap renderSingleBlock because it does not exists in any of the targets [net/minecraft/class_776]
+[15:24:09] [pool-2-thread-6/WARN] (FabricLoader/ModRemap) Cannot remap iterateVisibleBlockEntities because it does not exists in any of the targets [net/minecraft/class_761]
+[15:24:09] [pool-2-thread-12/WARN] (FabricLoader/ModRemap) Cannot remap lambda$init$2 because it does not exists in any of the targets [net/minecraft/class_429]
+[15:24:09] [pool-2-thread-5/WARN] (FabricLoader/ModRemap) Cannot remap getRenderLayers because it does not exists in any of the targets [net/minecraft/class_4696]
+[15:24:10] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/arush/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/22f9eb729e216a091673a574a5906dc1b9027fb3/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[15:24:11] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[15:24:11] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[15:24:11] [main/INFO] (Sodium) Loaded configuration file for Sodium: 42 options available, 0 override(s) found
+[15:24:11] [main/INFO] (Sodium-GraphicsAdapterProbe) Searching for graphics cards...
+[15:24:12] [main/INFO] (Sodium-GraphicsAdapterProbe) Found graphics adapter: AdapterInfo{vendor=AMD, description='AMD Radeon (TM) Graphics', adapterType=0x0000232B, openglIcdFilePath='C:\Windows\System32\DriverStore\FileRepository\u0416875.inf_amd64_d7d9a83b77838894\B415373\atig6pxx.dll', openglIcdVersion=31.0.21916.5001}
+[15:24:13] [Datafixer Bootstrap/INFO] (Minecraft) 269 Datafixer optimizations took 505 milliseconds
+[15:24:14] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:24:19] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:24:19] [Render thread/INFO] (Minecraft) Setting user: Player96
+[15:24:19] [Render thread/INFO] (Mod Menu/Update Checker) Checking mod updates...
+[15:24:20] [Render thread/INFO] (Fastpath) Fastpath initializing...
+[15:24:20] [Render thread/INFO] (Fastpath) Chunk scheduler online with 7 threads.
+[15:24:20] [Render thread/INFO] (Fastpath) Fastpath toggled ON
+[15:24:20] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[15:24:20] [ModMenu/Update Checker/Fabric Loader/INFO] (Mod Menu/Update Checker) Update available for 'fabricloader@0.16.14'
+[15:24:20] [Render thread/INFO] (Minecraft) OpenGL Vendor: ATI Technologies Inc.
+[15:24:20] [Render thread/INFO] (Minecraft) OpenGL Renderer: AMD Radeon (TM) Graphics
+[15:24:20] [Render thread/INFO] (Minecraft) OpenGL Version: 3.2.0 Core Profile Context 23.19.16.05.250508
+[15:24:20] [Render thread/INFO] (Minecraft) Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
+[15:24:21] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, fabric-api, fabric-api-base, fabric-block-view-api-v2, fabric-key-binding-api-v1, fabric-lifecycle-events-v1, fabric-renderer-api-v1, fabric-rendering-fluids-v1, fabric-rendering-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabricloader, fastpath, modmenu, placeholder-api, sodium
+[15:24:22] [Worker-Main-9/INFO] (Minecraft) Found unifont_all_no_pua-16.0.03.hex, loading
+[15:24:22] [Worker-Main-10/INFO] (Minecraft) Found unifont_pua-16.0.03.hex, loading
+[15:24:22] [Worker-Main-4/INFO] (Minecraft) Found unifont_jp_patch-16.0.03.hex, loading
+[15:24:23] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[15:24:23] [Render thread/INFO] (Minecraft) Sound engine started
+[15:24:23] [Render thread/INFO] (Minecraft) Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[15:24:23] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[15:24:23] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[15:24:23] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[15:24:23] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[15:24:24] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[15:24:24] [Render thread/INFO] (Minecraft) Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[15:24:24] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[15:24:24] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[15:24:24] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[15:24:24] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[15:24:24] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[15:24:24] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[15:24:39] [Render thread/WARN] (Minecraft) Missing data pack fabric-convention-tags-v2
+[15:24:40] [Render thread/INFO] (Minecraft) Loaded 1407 recipes
+[15:24:40] [Render thread/INFO] (Minecraft) Loaded 1520 advancements
+[15:24:40] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21.8
+[15:24:40] [Server thread/INFO] (Minecraft) Generating keypair
+[15:24:41] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[15:24:41] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[15:24:41] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[15:24:41] [Render thread/INFO] (Minecraft) Time elapsed: 801 ms
+[15:24:42] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[15:24:42] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[15:24:43] [Server thread/INFO] (Minecraft) Player96[local:E:cd2c0f94] logged in with entity id 34 at (-11.753144839506938, 64.0, 155.462115295473)
+[15:24:43] [Server thread/INFO] (Minecraft) Player96 joined the game
+[15:24:43] [Server thread/INFO] (Minecraft) Player96 has made the advancement [Stone Age]
+[15:24:43] [Server thread/INFO] (Minecraft) Player96 has made the advancement [Getting an Upgrade]
+[15:24:43] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
+[15:24:43] [Render thread/INFO] (Minecraft) [System] [CHAT] Player96 has made the advancement [Stone Age]
+[15:24:43] [Render thread/INFO] (Minecraft) [System] [CHAT] Player96 has made the advancement [Getting an Upgrade]
+[15:24:43] [Render thread/INFO] (Minecraft) Loaded 42 advancements
+[15:24:44] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[15:24:44] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[15:24:44] [Render thread/INFO] (Minecraft) Resizing Dynamic Transforms UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[15:24:45] [Server thread/INFO] (Minecraft) Player96 has made the advancement [Sweet Dreams]
+[15:24:45] [Render thread/INFO] (Minecraft) [System] [CHAT] Player96 has made the advancement [Sweet Dreams]
+[15:24:45] [Render thread/INFO] (Minecraft) Loaded 47 advancements
+[15:25:06] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[15:25:06] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:25:06] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:25:06] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:25:17] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
+[15:25:17] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
+[15:25:17] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[15:25:35] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[15:25:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:25:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:25:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:25:44] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
+[15:25:44] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
+[15:25:44] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[15:27:01] [Render thread/WARN] (Minecraft) Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[15:27:12] [Render thread/INFO] (Minecraft) Loaded 47 advancements
+[15:27:46] [Render thread/INFO] (Minecraft) Loaded 68 advancements
+[15:27:51] [Render thread/INFO] (Minecraft) Loaded 78 advancements
+[15:29:11] [Server thread/INFO] (Minecraft) Player96 hit the ground too hard
+[15:29:11] [Render thread/INFO] (Minecraft) [System] [CHAT] Player96 hit the ground too hard
+[15:29:26] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[15:29:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:29:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:29:26] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:29:36] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2025-11-02_15.29.36.png
+[15:29:39] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
+[15:29:39] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
+[15:29:39] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[15:30:04] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[15:30:04] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:30:04] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:30:04] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:30:13] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2025-11-02_15.30.13.png
+[15:30:15] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
+[15:30:15] [Render thread/INFO] (ChunkBuilder) Started 10 worker threads
+[15:30:15] [Render thread/INFO] (Minecraft) [System] [CHAT] [Debug]: Reloading all chunks
+[15:30:16] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[15:30:16] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:30:16] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:30:16] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:30:35] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[15:30:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:30:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:30:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:30:35] [Server thread/INFO] (Minecraft) Player96 lost connection: Disconnected
+[15:30:35] [Server thread/INFO] (Minecraft) Player96 left the game
+[15:30:35] [Server thread/INFO] (Minecraft) Stopping singleplayer server as player logged out
+[15:30:35] [Server thread/INFO] (Minecraft) Stopping server
+[15:30:35] [Server thread/INFO] (Minecraft) Saving players
+[15:30:35] [Server thread/INFO] (Minecraft) Saving worlds
+[15:30:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[15:30:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[15:30:35] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[15:30:35] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[15:30:35] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:30:35] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:30:35] [Server thread/INFO] (Minecraft) ThreadedAnvilChunkStorage: All dimensions are saved
+[15:30:35] [Render thread/INFO] (ChunkBuilder) Stopping worker threads
+[15:30:36] [Render thread/INFO] (Minecraft) Stopping!

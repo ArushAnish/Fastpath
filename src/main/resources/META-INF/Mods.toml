@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)" # adjust for your Forge version
+license="MIT"
+
+[[mods]]
+modId="fastpath"
+version="1.5.0"
+displayName="FastPath"
+description="High-compat, toggleable fast paths for rendering and simulation."
+authors="Arush"
+logoFile="fastpath.png"

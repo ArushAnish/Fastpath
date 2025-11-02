@@ -1,0 +1,9 @@
+{
+  "fastpath.name": "Fastpath",
+  "fastpath.overlay.title": "Fastpath Overlay",
+  "fastpath.overlay.fps": "FPS",
+  "fastpath.overlay.frame_time": "Frame Time",
+  "fastpath.overlay.queue": "Chunk Queue",
+  "fastpath.overlay.draws": "Draw Calls",
+  "fastpath.toggle": "Fastpath on/off"
+}

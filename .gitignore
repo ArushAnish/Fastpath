@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ / Eclipse / VSCode
+.idea/
+*.iml
+*.ipr
+*.iws
+bin/
+out/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
